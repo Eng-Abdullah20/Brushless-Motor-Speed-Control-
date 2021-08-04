@@ -1,6 +1,5 @@
 # Brushless-Motor-Speed-Control
 
-brushless motor speed control 
 # Hardware Description
 In this task, the circuit has been designed to control the speed of the brushless motor of the wheels of the food serving robot. The circuit is composed of an Arduino, a brushless motor and a QS-909 motor driver.  
 # Implementation 
